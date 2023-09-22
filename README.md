@@ -1,6 +1,6 @@
 # customer_churn_prediction
 Bank Customers Churn Prediction
-#  Link at Kaggle:
+#  Link on Kaggle:
 https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
 
 About this file
@@ -18,3 +18,29 @@ HasCrCard—denotes whether or not a customer has a credit card. This column is 
 IsActiveMember—active customers are less likely to leave the bank.
 EstimatedSalary—as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
 Exited—whether or not the customer left the bank.
+
+# car prices prediction
+# link on Kaggle:
+https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge
+
+Assignment
+Your notebooks must contain the following steps:
+
+Perform data cleaning and pre-processing.
+What steps did you use in this process and how did you clean your data.
+Perform exploratory data analysis on the given dataset.
+Explain each and every graphs that you make.
+Train a ml-model and evaluate it using different metrics.
+Why did you choose that particular model? What was the accuracy?
+Hyperparameter optimization and feature selection is a plus.
+Model deployment and use of ml-flow is a plus.
+Perform model interpretation and show feature importance for your model.
+Provide some explanation for the above point.
+Future steps. Note: try to have your notebooks as presentable as possible.
+Dataset Description
+CSV file - 19237 rows x 18 columns (Includes Price Columns as Target)
+
+Attributes
+ID Price: price of the care(Target Column) Levy Manufacturer Model Prod. year Category Leather interior Fuel type Engine volume Mileage Cylinders Gear box type Drive wheels Doors Wheel Color Airbags
+
+Confused or have any doubts in the data column values? Check the dataset discussion tab!
